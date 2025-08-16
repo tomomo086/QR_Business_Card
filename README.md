@@ -127,7 +127,7 @@
 
 ## 📂 プロジェクト構成
 ```
-QR_Business_Card/
+QR_Calling_Card/
 ├── photos/             # プロジェクト写真
 │   ├── 1.jpg - 9.jpg   # 製品写真
 │   └── screenshot1.png, screenshot2.png # 開発過程
